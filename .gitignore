@@ -1,2 +1,5 @@
 node_modules/
-build/**
+build/
+yarn-error.log
+src/index.js
+src/index.js.map
